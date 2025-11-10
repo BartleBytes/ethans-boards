@@ -3,6 +3,7 @@
 @tailwind utilities;
 
 :root {
+  --font-sans: "Helvetica Neue", Helvetica, Arial, sans-serif;
   --background: 30 25% 96%;
   --foreground: 24 18% 16%;
   --card: 28 32% 94%;

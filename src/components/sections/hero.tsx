@@ -33,7 +33,7 @@ export function HeroSection() {
       <div className="relative z-10 mx-auto flex min-h-[80vh] max-w-5xl flex-col items-center justify-center gap-6 px-6 text-center text-white">
         <p className="text-xs uppercase tracking-[0.5em] text-white/80">Lorem ipsum</p>
         <h1 className="text-4xl font-semibold leading-tight md:text-6xl">
-          Check out these bitchin little boards yall!
+          It&apos;s time to start your adventures
         </h1>
         <p className="max-w-2xl text-lg text-white/80">
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Veniam facilis
